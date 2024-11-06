@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "NkRB50EWKpFaavVMS7QtuKkyUaH2BLqk4+se1xI18hA="
+          "hash": "RRqasbY3eY1iwlRiz9eY6rqmznXnlEYgiTyNTugqDJ8="
         }
       },
       "is_incremental": false,
@@ -113,14 +113,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 2
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 0
+          "skipped_file_count": 1
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
